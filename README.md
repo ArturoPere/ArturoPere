@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h4><b>👋 Who am I?</b></h4>
-Hi! I’m @ArturoPere I have studied Psychology specialising later in modelling and applied statistics in the social and health sciences, as well as in advanced experimental designs. <br>
+<h4><b>👋 Hi there!</b></h4>
+I’m Arturo Pérez García. I have studied Psychology specialising later in modelling and applied statistics in the social and health sciences, as well as in advanced experimental designs. <br>
 <h4><b>👀 What am I interested in? </b></h4>
 I’m interested in experimental research into the causes of human behaviour, including the modelling of cognitive processes and the construction of machine and deep learning models to aid prediction or classification in the health and social sciences.<br><br>
 <h4><b>📫 How to reach me </b></h4>
